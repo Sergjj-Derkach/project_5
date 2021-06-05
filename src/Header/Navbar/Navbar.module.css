@@ -1,0 +1,28 @@
+.navbar {
+  display: flex;
+  padding-top: 50px;
+  justify-content: space-around;
+}
+.logo {
+  display: block;
+  width: 55px;
+  height: 40px;
+  background: url("./img/livello_8_100.png") center/cover;
+}
+.navbar_menu {
+  display: flex;
+  width: 250px;
+  align-items: center;
+  justify-content: space-between;
+}
+.navbar_menu_item {
+  font-size: 18px;
+  line-height: 1.2;
+  color: white;
+}
+.navbar_menu_basket {
+  display: block;
+  width: 25px;
+  height: 20px;
+  background: url("./img/fa_shopping_cart_108.png") center/cover;
+}
