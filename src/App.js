@@ -1,5 +1,5 @@
-import "./Reset.css";
-import "./App.css";
+import "./Reset.scss";
+import "./App.scss";
 import Header from "./Header/Header";
 
 function App() {

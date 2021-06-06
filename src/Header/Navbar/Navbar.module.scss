@@ -2,13 +2,15 @@
   display: flex;
   padding-top: 50px;
   justify-content: space-around;
+
+  .logo {
+    display: block;
+    width: 55px;
+    height: 40px;
+    background: url("./img/livello_8_100.png") center/cover;
+  }
 }
-.logo {
-  display: block;
-  width: 55px;
-  height: 40px;
-  background: url("./img/livello_8_100.png") center/cover;
-}
+
 .navbar_menu {
   display: flex;
   width: 250px;
